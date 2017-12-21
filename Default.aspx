@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/GuestMasterPage.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="_1685009.Default" %>
+<%@ Page Title="" Language="C#" MasterPageFile="~/GuestMasterPage.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="_1685009.Default" %>
 
 <%@ Register Src="~/WebUC/Slider.ascx" TagPrefix="uc1" TagName="Slider" %>
 <%@ Register Src="~/WebUC/TopOffers.ascx" TagPrefix="uc1" TagName="TopOffers" %>
